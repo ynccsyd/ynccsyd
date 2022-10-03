@@ -1,6 +1,6 @@
 ### Hi there 👋, I’m Şeyda from Türkiye.
 #### I am an Electrical and Electronics Engineer and have a master degree in Energy Science and Technologies.
-(https://r.resimlink.com/jwBWRuxA0-t.png)
+![I am an Electrical and Electronics Engineer and have a master degree in Energy Science and Technologies.](https://r.resimlink.com/jwBWRuxA0-t.png)
 
 - I am interested in Programming Languages. I am good at Matlab and Python languages. I designed a tuner that can write audio frequency analysis for my undergraduate project. I am knowledgeable about RF. I did an internship at Focus Engineering which produces a laser-guided weapon .
 -	As a second university, in the last year of (MIS) Management Information Systems.
@@ -20,4 +20,3 @@ Skills: Matlab/Python / SQL/C#/REACT / JS / HTML / CSS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/ynccsyd&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/ynccsyd)  
-

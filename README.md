@@ -29,7 +29,7 @@
 
 ---
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ynccsyd&langs_count=10&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ynccsyd&show_icons=true&theme=tokyonight)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ynccsyd&langs_count=10&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=ynccsyd&show_icons=true&theme=tokyonight)  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ynccsyd) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ynccsyd)](https://github.com/ryo-ma/github-profile-trophy)

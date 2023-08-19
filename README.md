@@ -1,4 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/ynccsyd)
+
 ## Hi there 👋, I’m Şeyda from Türkiye.
 ---
 ![myBanner (1)](https://user-images.githubusercontent.com/109158340/193599388-2b57381b-4be1-4d05-9dac-0f5676c86b51.png)
@@ -35,7 +36,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ynccsyd)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
+![](https://komarev.com/ghpvc/?username=ynccsyd&color=green)
 
 
 

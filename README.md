@@ -9,11 +9,12 @@
 - I am an `Electrical and Electronics Engineer` and have a `Master's degree in Energy Science and Technologies`.
 - I am interested in Programming Languages. I am good at Matlab and Python languages. I designed a tuner that can write audio frequency analysis for my undergraduate project. I am knowledgeable about `RF`. I did an internship at Focus Engineering which produces a laser-guided weapon.
 -	As a second university, in the last year of (MIS)`Management Information Systems`.
--	Master's degree in Energy Science and Technology in Italy. I am studying my Master's Thesis on a smart contract that distributes Energy with Blockchain.
+-	Master's degree in Energy Science and Technology in Italy. I studied for my Master's Thesis on a smart contract that distributes Energy with Blockchain.
 ---
 ### Skills and Languages and Tools :
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JAVA" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;

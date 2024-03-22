@@ -10,7 +10,7 @@
 - I am interested in Programming Languages. I am good at Matlab and Python languages. I designed a tuner that can write audio frequency analysis for my undergraduate project. I am knowledgeable about `RF`. I did an internship at Focus Engineering which produces a laser-guided weapon.
 -	As a second university, in the last year of (MIS)`Management Information Systems`.
 -	Master's degree in Energy Science and Technology in Italy. I studied for my Master's Thesis on a smart contract that distributes Energy with Blockchain.
--	Now, I am studying for PhD in Software Engineering.
+-	Now, I am studying for PhD in Software Engineering and working as an RA at Halic University.
 ---
 ### Skills and Languages and Tools :
 
